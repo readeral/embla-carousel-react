@@ -39,6 +39,8 @@
       <a href="#props">props</a>
       &nbsp; &middot; &nbsp;
       <a href="https://codesandbox.io/s/znjzv">codesandbox</a>
+      &nbsp; &middot; &nbsp;
+      <a href="#inspiration">inspiration</a>
     </strong>
   </p>
 
@@ -168,3 +170,7 @@ export default EmblaCarouselComponent
   <sup>Copyright © 2019-present, David Cetinkaya.</sup><br>
   Embla is <a href="https://github.com/davidcetinkaya/embla-carousel-react/blob/master/LICENSE">MIT licensed</a> 💖
 </p>
+
+## Inspiration
+
+- [A Code Sandbox with autoplay and adjustable delay](https://codesandbox.io/s/embla-carousel-react-iox4t) (uses react hooks with a [custom useInterval hook](https://overreacted.io/making-setinterval-declarative-with-react-hooks/))
